@@ -1,0 +1,7 @@
+.youtube:hover {
+    text-decoration: underline white;
+    text-decoration-thickness: 10%;
+    font-size: 105px;
+    transition: .55s ease;
+    cursor: pointer;
+}
